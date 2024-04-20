@@ -1,7 +1,7 @@
-### 🌌 Меня зовут Артём
+### 🌌 My name is Artem
 
 # About me
 
-- 🫐 Учусь в колледже, параллельно прохожу курсы frontend-разработчика Yandex-Практикума.
-- 🧢 Изучаю основы языков: HTML, CSS, JS, SQL, C#.
-- 🔑 Заинтересован найти команду разрабочиков, с которыми будет интересно создавать проекты, развиваться, изучать новое!
+- 🫐 I'm studying in college, and at the same time I'm taking Yandex frontend developer courses.
+- 🧢 I’m learning the basics of languages: HTML, CSS, JS, SQL, C#.
+- 🔑 Interested in finding a team of developers with whom it will be interesting to create projects, develop, and learn new things!
