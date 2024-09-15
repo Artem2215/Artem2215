@@ -1,4 +1,5 @@
-### Меня зовут Артём, я - Frontend-разработчик
+### Меня зовут Артём
+## Frontend-разработчик
 # About me
 
 - 🫐 I'm studying in college, and at the same time I'm taking Yandex frontend developer courses.
