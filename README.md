@@ -1,5 +1,4 @@
-### 🌌 My name is Artem
-
+### Меня зовут Артём, я - Frontend-разработчик
 # About me
 
 - 🫐 I'm studying in college, and at the same time I'm taking Yandex frontend developer courses.
